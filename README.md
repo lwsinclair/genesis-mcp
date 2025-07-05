@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dustland-genesis-mcp-badge.png)](https://mseep.ai/app/dustland-genesis-mcp)
+
 <img src="imgs/big_text.png" alt="Genesis" width="200" />
 
 # Genesis MCP Server
